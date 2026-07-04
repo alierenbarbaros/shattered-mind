@@ -24,3 +24,7 @@ A 2D platformer game project developed with Unity.
 
 ```bash
 git clone https://github.com/alierenbarbaros/shattered-mind.git
+
+## 📺 Gameplay Video
+
+[![Shattered Mind Gameplay](https://img.youtube.com/vi/xUjeI57_raQ/0.jpg)](https://www.youtube.com/watch?v=xUjeI57_raQ)
