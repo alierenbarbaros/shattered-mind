@@ -1,24 +1,24 @@
 # Shattered Mind
 
-Unity ile geliştirilmiş 2D platformer oyun projesi.
+A 2D platformer game project developed with Unity.
 
-## Özellikler
+## Features
 
-* Karakter hareketi, zıplama ve saldırı mekanikleri
-* Hasar alma ve can sistemi
-* can iksiri sistemi ve can veren npc sistemi
-* İskelet düşmanı ve aynı yapıda iskelet bossu
+* Character movement, jumping, and attack mechanics
+* Damage and health system
+* Health potion system and health-giving NPC system
+* Skeleton enemy and skeleton boss with the same structure
 
-## Kullanılan Teknolojiler
+## Technologies Used
 
 * Unity 2023
-* C# programlama dili
+* C# programming language
 
-## Projeyi Çalıştırma
+## Running the Project
 
-1. Unity Editor ile projeyi açın.
-2. Gerekli Unity sürümünün yüklü olduğundan emin olun.
-3. Proje dosyaları tamamdır.
+1. Open the project with Unity Editor.
+2. Make sure the required Unity version is installed.
+3. Project files are ready.
 
 ---
 
